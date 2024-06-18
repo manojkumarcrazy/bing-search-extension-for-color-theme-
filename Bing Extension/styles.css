@@ -1,0 +1,84 @@
+.b_scopebar .b_active a, .b_scopebar a:hover, .id_button:hover {
+    color: #f00 !important;
+    font-style: italic !important;
+    font-size: 13px !important;
+}
+.b_scopebar, .b_scopebar a, .b_scopebar a:visited, .id_button, .id_button:visited {
+    color: #e900fd !important;
+    font-style: italic !important;
+    font-size: 13px !important;
+}
+.b_tpcn .tptt {
+    height: 33px !important;
+    padding-bottom: 0;
+    line-height: 18px;
+    font-size: 14px;
+    color: #12f85f !important;
+    font-style: italic !important;
+}
+a:visited, #b_results>li a:visited {
+    color: #e29f14 !important;
+    font-style: italic !important;
+}
+.b_caption, .snippet {
+    color: #ff0f0f !important;
+    font-style: italic !important;
+}
+#b_results .b_algo .b_vlist2col.b_deep {
+    display: inline-flex;
+    color: #c1ab25 !important;
+    font-style: italic !important;
+}
+#b_results>li a {
+    color: #ed0aed !important;
+    font-style: italic !important;
+}
+#b_results, #b_results .b_defaultText, #b_results>.b_pag a:hover, #b_tween .b_toggle:hover, #b_tween .b_highlighted {
+    color: #d1e112 !important;
+    font-style: italic !important;
+}
+#b_results #brsv3 .b_vList a .b_suggestionText {
+    max-width: 227px;
+    margin-left: 16px;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #ebff0b !important;
+    display: -webkit-box;
+    text-align: left;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow-wrap: break-word;
+    overflow: hidden;
+    flex: 1;
+    font-style: italic !important;
+}
+#b_header #sb_form, .b_logoArea, .b_logo, .b_searchboxForm, .id_button, .id_avatar, .idp_ham, .b_scopebar li, .b_scopebar a {
+    display: inline-block;
+    color: blueviolet !important;
+}
+.b_tpcn .b_attribution cite, .b_tpcn .b_attribution .c_tlbxTrg {
+    color: #0ddeef !important;
+    font-style: italic !important;
+}
+.sbox .sb_form, .sbox_cn .sb_form, .sbox_sl .sb_form {
+    width: 100%;
+    background-color: #e52323;
+    font: normal 1rem "Segoe UI",Arial,Helvetica,Sans-Serif;
+    padding-right: 10px;
+    box-shadow: 0 2px 4px rgb(248 10 232 / 30%);
+    align-items: center;
+    justify-content: flex-end;
+    display: inline-flex;
+    border-radius: 30px;
+    height: 100%;
+    position: relative;
+    background-color: #215621 !important;
+}
+html{
+    background: #215621 !important;
+}
+.b_dark .lite-entcard-main, .b_dark .lite-entcard-main a, .b_dark .lite-entcard-main a:visited {
+    color: #b66514 !important;
+    font-style: italic !important;
+}

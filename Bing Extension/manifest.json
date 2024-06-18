@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+   
+    "name": "Color Theme For Bing",
+    "version": "1.0.0",
+    "description": "color theme for Bing",
+  
+   
+    "content_scripts": [{
+      "css": ["styles.css"],
+      "matches": ["https://www.bing.com/*"]
+     
+   
+  }]
+    }
